@@ -6,6 +6,7 @@ Release:	2
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/gdb.tar.gz
+# Source0-md5:	843112723f8388463848e0ac60563ced
 URL:		http://www.devhelp.net/
 Requires:	devhelp >= 0.5.0
 BuildArch:	noarch
