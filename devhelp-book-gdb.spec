@@ -1,5 +1,5 @@
 Summary:	DevHelp book: gdb
-Summary(pl.UTF-8):   Książka do DevHelpa o gdb
+Summary(pl.UTF-8):	Książka do DevHelpa o gdb
 Name:		devhelp-book-gdb
 Version:	1.0
 Release:	2
