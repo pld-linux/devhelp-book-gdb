@@ -1,5 +1,5 @@
 Summary:	DevHelp book: gdb
-Summary(pl):	Ksi±¿ka do DevHelpa o gdb
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o gdb
 Name:		devhelp-book-gdb
 Version:	1.0
 Release:	2
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about gdb.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o gdb.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o gdb.
 
 %prep
 %setup -q -c -n gdb-5.0
